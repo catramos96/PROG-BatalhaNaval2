@@ -1,0 +1,7 @@
+                             Welcome to BattleShip!
+
+	This game is not an ordinay battle ship game! Why? Because in this version you can see your oponent's board. Well ... if it was like the normal game, this would be a piece of cake right? But it's not so easy as it seams to.
+	
+	The main purpose of the game is for you to destroy your oponent fleet. In wich turn you will be able to send a bomb to your oponent's board. This bomb may not fall in the coordinates that you choose and before the bomb hits the board, the ships will move in a random way.The game ends when one of the players has all of his ships destroyed. Just to help you out, for you to destroy a ship you have to atleast destroy 50% of his cells. The score of the winner will consider the time playing and the amount of ship's cells destroyed. Hope you can make the top 10!
+	
+I wish you good luck !

@@ -1,0 +1,12 @@
+10 x 10
+P 5 Fe H 12
+F 4 Dc H 13
+C 3 Ab V 10
+C 3 Ib H 10
+S 2 Ej V 6
+S 2 Hi H 6
+S 2 Ci V 6
+L 1 Ec H 9
+L 1 Gh V 9
+L 1 Jg H 9
+L 1 Ef H 9

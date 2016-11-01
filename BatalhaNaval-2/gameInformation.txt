@@ -1,0 +1,3 @@
+                                Game Information
+
+	This game was developed on 25/05/2015 by Catarina Ramos and Ines Gomes, students at Faculdade de Engenharia da Universidade do Porto (FEUP), as part of a project of the programing class 1st year.

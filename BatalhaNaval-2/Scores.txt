@@ -1,0 +1,6 @@
+       Position    Player Name          Score     Board Area     Ships Area
+              1           ines           1.75            100             25
+              2              a              2            100             25
+              3              b           2.25            100             25
+              4       catarina           7.75            100             25
+              5              a             50            100             25
